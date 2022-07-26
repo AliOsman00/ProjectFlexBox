@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    font-family: 'poppins';
+}
+html {
+    scroll-behavior: smooth;
+}
+nav,a {
+    text-decoration: none;
+    cursor: pointer;
+    color: inherit;
+    transition: 0.2s;
+}
